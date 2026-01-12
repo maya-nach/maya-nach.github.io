@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: [assets/img/home-banner-image-1.jpg](https://media.licdn.com/dms/image/v2/D5612AQH8mFnTEDet0w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696295884256?e=1769644800&v=beta&t=gfa3BgxD8H_yhSrMrwxbHcz5hYEJkAld3Px7LQ_jigA)
+  overlay_image: https://media.licdn.com/dms/image/v2/D5612AQH8mFnTEDet0w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696295884256?e=1769644800&v=beta&t=gfa3BgxD8H_yhSrMrwxbHcz5hYEJkAld3Px7LQ_jigA
   actions:
     - label: "My Projects"
       url: "/portfolio/"
