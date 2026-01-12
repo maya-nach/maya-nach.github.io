@@ -6,13 +6,16 @@ title: "About Maya Nachega"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt Unviersity
+  * BS Engineering Science (concentration: Biomedical Engineering)
+  * Minors in Digital Fabrication, Physics, and Chemistry
+  * Relevant coursework: Biomechanics, Biomaterials, Tissue Engineering, Physiological transport, Rapid Prototyping, Addative Manufacturing
+
+## Work Experience
+
+* 
 
 ## Technical Skills
 
@@ -24,8 +27,13 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * 3D Inkjet Printing
 * Bioplotting
 
-## Press 
+## Publications and Awards 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+* First author publication in [IEEE Xplore](https://ieeexplore.ieee.org/document/10754700) for research project titled _Enhancing Early Diagnosis of Autism With Machine Learning Algorithms Using Postural Control Features_.
+  * Research was disseminated at the _2024 15th Annual IEEE Ubiquitous Computing, Electronics & Mobile Communication
+Conference (UEMCON)_.
+* Winner of the research poster competition at the Vanderbilt Undergraduate Research Fair (VURF) in the Engineering, Computer Science,
+Data Science, & Math category.
+
 
 ![Maya Nachega](/assets/img/Nachega_Maya_Headshot.jpg)
