@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/img/maya-sugru-reu-poster-pic.JPG
     alt: "maya + sugru poster pic"
     title: "Summer 2024 NSF REU Poster Presentation"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    excerpt: "Poster presentation expo at the end of my summer 2024 research internship."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
