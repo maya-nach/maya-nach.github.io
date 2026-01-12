@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Maya Nachega's Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,8 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
-feature_row:
+excerpt: "Maya Nachega is an engineering student and aspiring physician-scientist exploring how technology can be used to improve healthcare. Her interests span biomedical engineering, digital fabrication, and data-driven approaches to understanding movement and neurodevelopment.
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
