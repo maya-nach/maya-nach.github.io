@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump"
-excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
+title: "Large Format 3D Printer"
+excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
