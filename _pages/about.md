@@ -4,28 +4,32 @@ title: "About Maya Nachega"
 
 ---
 
-## Education
+Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design.
 
-Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design. 
+## Education 
 
-* Vanderbilt Unviersity
+* Vanderbilt Unviersity | Class of 2026
   * BS Engineering Science (concentration: Biomedical Engineering)
   * Minors in Digital Fabrication, Physics, and Chemistry
-  * Relevant coursework: Biomechanics, Biomaterials, Tissue Engineering, Physiological transport, Rapid Prototyping, Addative Manufacturing
+  * Relevant coursework: Biomechanics, Biomaterials, Tissue Engineering, Physiological Transport, Rapid Prototyping, Additive Manufacturing
 
 ## Work Experience
 
-* 
+* Texas State University: NSF REU (Machine Learning, XR & Health)
+  *	Research intern in project aimed at enhancing early diagnosis of autism with machine learning algorithms using postural control data features.
+* Robotics & Autonomous Systems Lab (RASL)
+  * Undergraduate researcher working on Simulator for Individualized and Adaptive Driving (SIAD).
+  * SIAD is a VR-based driving simulator designed to help individuals with autism learn driving skills.
+* Frist Center for Autism & Innovation
+  * Project intern conducting structured literature reviews on autism and neurodiversity in the workplace and curated a centralized online resource database.
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Maya has experience with the following relevant tools and technologies:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* 
+
 
 ## Publications and Awards 
 
