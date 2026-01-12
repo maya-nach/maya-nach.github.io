@@ -9,6 +9,7 @@ header:
     - label: "My Projects"
       url: "/portfolio/"
 excerpt: "Maya Nachega is an engineering student and aspiring physician-scientist exploring how technology can be used to improve healthcare. Her interests span biomedical engineering, digital fabrication, and data-driven approaches to understanding movement and neurodevelopment."
+feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
