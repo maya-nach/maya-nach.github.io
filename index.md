@@ -10,17 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Maya Nachega is an engineering student and aspiring physician-scientist exploring how technology can be used to improve healthcare. Her interests span biomedical engineering, digital fabrication, and data-driven approaches to understanding movement and neurodevelopment."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
   - image_path: assets/img/maya-sugru-reu-poster-pic.JPG
     alt: "maya + sugru poster pic"
     title: "Summer 2024 NSF REU Poster Presentation"
     excerpt: "Poster presentation expo at the end of my summer 2024 research internship."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
 ---
 
 {% include feature_row %}
