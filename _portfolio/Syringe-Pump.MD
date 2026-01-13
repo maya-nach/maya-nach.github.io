@@ -21,10 +21,9 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
 
 
 ## Off-the-shelf Parts
-| Part | Quantity |
-| ----------- | ----------- |
+| Part          | Quantity  |
+| ------------- |:---------:|
 | 250 mm lead screw with 2 mm pitch and 8 mm lead | 1 |
-| 1/4" x 8 mm flexible coupler | 1 |
 
 
 
