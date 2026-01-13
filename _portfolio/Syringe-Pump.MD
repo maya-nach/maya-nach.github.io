@@ -2,13 +2,11 @@
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
+  image: /assets/img/syringe-pump-rendering-pic.png
   teaser: /assets/img/syringe-pump-thumbnail.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
-   
+  - image_path: /assets/img/syringe-pump-irl-semi-finished.png
+ 
 ---
 
 # Features
@@ -20,4 +18,4 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811a1b84a38a6c3e09a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Syringe Pump Gallery" %}
