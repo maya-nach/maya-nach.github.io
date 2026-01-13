@@ -4,11 +4,11 @@ title: "About Maya Nachega"
 
 ---
 
-Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design.
+Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design. She is seeking jobs at the intersection of engineering and medical innovation.
 
 ## Education 
 
-* Vanderbilt Unviersity | Class of 2026
+* Vanderbilt Unviersity, Class of 2026
   * BS Engineering Science (concentration: Biomedical Engineering)
   * Minors in Digital Fabrication, Physics, and Chemistry
   * Relevant coursework: Biomechanics, Biomaterials, Tissue Engineering, Physiological Transport, Rapid Prototyping, Additive Manufacturing
@@ -27,8 +27,13 @@ Maya is building a broad foundation in engineering and medicine through coursewo
 
 Maya has experience with the following relevant tools and technologies:
 
-* Fused Filament Fabrication (FFF)
-* 
+* Digital Fabrication
+  * CAD (SolidWorks, Fusion 360)
+  * Fused Filament Fabrication (FFF)
+* Programming
+  * Python
+  * Java
+  * C# (Unity) 
 
 
 ## Publications and Awards 
