@@ -18,7 +18,7 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
 * A **limit switch** and **enclosure** improve safety and reliability of the system.
 
 ## Rendering of Final Syringe Pump
-
+![final-rendering](/assets/img/FINAL-SYRINGE-PUMP-RENDER.png)
 
 ## Off-the-shelf Parts
 <table>
