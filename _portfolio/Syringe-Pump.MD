@@ -85,17 +85,42 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
 </table>
 
 ## 3D Printed Parts
-| Part Name             | Quantity | Purpose |
-|----------------------|----------|---------|
-| Enclosure            | 1        | Houses and protects all electronics, providing a sealed and organized control unit for the syringe pump. |
-| Motor Mounting Plate | 1        | Rigidly mounts the stepper motor and aligns it with the lead screw to transmit rotational motion into linear motion. |
-| End Support          | 2        | Supports the linear rod and lead screw at both ends of the actuator to maintain alignment and mechanical stability. |
-| Barrel Holder        | 1        | Holds and locates the syringe barrel, ensuring the syringe remains fixed during fluid dispensing. |
-| Plunger Holder       | 1        | Grips the syringe plunger and translates lead screw motion into controlled plunger movement; also carries the limit switch. |
-
-
-## Arduino Code
-
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Purpose</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enclosure</td>
+      <td>Houses and protects all electronics, providing a sealed and organized control unit for the syringe pump.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Motor Mounting Plate</td>
+      <td>Rigidly mounts the stepper motor and aligns it with the lead screw.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>End Support</td>
+      <td>Supports the linear rod and lead screw at both ends of the actuator.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Barrel Holder</td>
+      <td>Holds the syringe barrel so the syringe can remain fixed during fluid dispensing.</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Plunger Holder</td>
+      <td>Holds the syringe plunger and translates lead screw motion into controlled plunger movement; also carries the limit switch.</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Operating Instructions
 1. In the Arduino code, change the diameter of the syringe and the desired flow rate.  
