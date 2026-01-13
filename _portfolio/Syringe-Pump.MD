@@ -123,7 +123,7 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
 </table>
 
 ## Operating Instructions
-1. In the Arduino code, change the diameter of the syringe and the desired flow rate.  
+1. In the [Arduino code](/firmware/MotorSpeedCode.ino), change the diameter of the syringe and the desired flow rate.  
 2. With the power supply unplugged, connect the Arduino to the computer and upload the code. 
 3. Once the code is uploaded, unplug the Arduino from the computer. 
 4. Fill syringe with the amount of fluid needed. 
