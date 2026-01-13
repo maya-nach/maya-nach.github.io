@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min."
 header:
-  image: /assets/img/syringe-pump-rendering-pic.png
+  image: /assets/img/syringe-pump-rendering-FULL-OG.png
   teaser: /assets/img/syringe-pump-thumbnail.png
 gallery:
   - image_path: /assets/img/syringe-pump-irl-semi-finished.png
@@ -10,6 +10,15 @@ gallery:
 ---
 
 ## Purpose and Design Overview
+Syringe pumps are used in medical and laboratory settings to deliver precise volumes of fluid at controlled flow rates. Commercial systems often cost hundreds to thousands of dollars, limiting access for smaller labs and educational environments. As an alternative, this project presents a low-cost DIY syringe pump that can be made with a combination of 3D printed and off-the-shelf parts.
+
+### Features
+* This DIY syringe pump uses a **lead-screw-driven linear actuator** to advance the syringe plunger, converting rotational motor motion into precise linear displacement.
+* The pump is driven by a **stepper motor** and controlled by an **Arduino**.
+* The system supports **10 and 20 mL syringes**, and allows the user to **specify flow rate and syringe diameter**.
+* A **limit switch** and **enclosure** improve safety and reliability of the system.
+
+
 
 * **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
 * **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
