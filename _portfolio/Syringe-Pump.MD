@@ -81,6 +81,38 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
       <td>RGB Common Cathode LED</td>
       <td>3</td>
     </tr>
+    <tr>
+      <td>Flanged Ball Bearing</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Lead Screw Lock Collar</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Linear Rod Lock Collar</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>M5 Tee Nut</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Nut tr8x8 for Carriage</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>M3x8 Thread Forming Screw</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>M3x10mm Bolt</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>M5x8mm Bolt</td>
+      <td>6</td>
+    </tr>
   </tbody>
 </table>
 
