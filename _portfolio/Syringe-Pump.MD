@@ -25,65 +25,61 @@ Syringe pumps are used in medical and laboratory settings to deliver precise vol
   <thead>
     <tr>
       <th>Component</th>
-      <th>Purpose</th>
+      <th>Quantity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>250 mm lead screw with 2 mm pitch and 2 mm lead</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>1/4" x 8 mm flexible coupling</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>200 mm linear rod with 8 mm diameter</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>LM8UU Linear bearing for 8 mm diameter rod</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2040 Aluminum Extrusion 1' Length</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Nema 17 Stepper Motor</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Arduino Uno</td>
-      <td>Main microcontroller for pump control</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Stepper motor + stepper driver</td>
-      <td>Drives the lead screw to move the plunger holder</td>
+      <td>A4988 Stepper Driver</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Lead screw</td>
-      <td>Converts motor rotation into linear motion (sets displacement per revolution)</td>
+      <td>Small Breadboard</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Linear rod</td>
-      <td>Guides the moving carriage to keep motion constrained and stable</td>
+      <td>Panel Mount Latching Push Buttons (On/Off)</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Aluminum extrusion</td>
-      <td>Structural frame for the linear actuator assembly</td>
+      <td>Limit Switch</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Power supply</td>
-      <td>Provides power to the motor and electronics</td>
-    </tr>
-    <tr>
-      <td>I2C LCD display</td>
-      <td>Displays programmed flow rate and remaining time</td>
-    </tr>
-    <tr>
-      <td>LEDs (RGB)</td>
-      <td>Status indication (running / paused / stopped)</td>
-    </tr>
-    <tr>
-      <td>Latching pushbutton</td>
-      <td>Start/pause control for the pump</td>
-    </tr>
-    <tr>
-      <td>Limit switch</td>
-      <td>Stops motion at end-of-travel to prevent over-compression / damage</td>
-    </tr>
-    <tr>
-      <td>Breadboard</td>
-      <td>Organizes circuit connections</td>
-    </tr>
-    <tr>
-      <td>Jumper wires / hookup wire</td>
-      <td>Electrical interconnects between components</td>
-    </tr>
-    <tr>
-      <td>Heat-set inserts + M3 screws/bolts</td>
-      <td>Fasteners for removable lid/panels and securing electronics</td>
-    </tr>
-    <tr>
-      <td>Clear tubing (for syringe outlet)</td>
-      <td>Directs fluid into the receiving vessel</td>
+      <td>RGB Common Cathode LED</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
