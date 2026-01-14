@@ -15,7 +15,7 @@ title                    : "Maya Nachega"
 title_separator          : "-"
 subtitle                 : "Vanderbilt Class of 2026"
 name                     : &name "Maya Nachega" # &name is a YAML anchor which can be *referenced later
-description              : &description "Maya Nachega's Portfolio "
+description              : &description "Maya Nachega - Engineering & Healthcare "
 url                      : https://mayanachega.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
