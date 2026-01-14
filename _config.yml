@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Nachega_Maya_Headshot.jpg"
-  bio              : "Vanderbilt University student majoring in Engineering Science, minoring in Digital Fabrication and Physics."
+  bio              : "Vanderbilt University student majoring in Engineering Science, minoring in Digital Fabrication."
   location         : "Fort Worth, TX"
   links:
     - label: "GitHub"
