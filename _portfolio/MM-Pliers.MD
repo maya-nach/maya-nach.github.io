@@ -26,11 +26,43 @@ This project explores a **multi-material, print-in-place needle-nose pliers** de
 
 
 ## Print Settings
+<table>
+  <thead>
+    <tr>
+      <th>Setting</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PLA Material Selection</td>
+      <td>Strong and durable material for rigid plier components (jaws and handles).</td>
+    </tr>
+    <tr>
+      <td>TPU 95A Material Selection</td>
+      <td>Flexible material for elastic deformation of the middle spring region. Still durable under repeated bending.</td>
+    </tr>
+    <tr>
+      <td>Sparse Infill Pattern: Grid (TPU middle)</td>
+      <td>Grid pattern allows compression in the weakest direction (shear) to result in easier opening and closing of pliers when assembled.</td>
+    </tr>
+    <tr>
+      <td>Infill Density: 18% (TPU middle)</td>
+      <td>Lower infill to allow for larger motion of the plier jaws with a smaller deformation of the TPU region.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Horizontal Shells Solid Layers: Top and Bottom layers set to zero (TPU middle)</td>
+      <td>Must remove top and bottom layers so that the grid infill is main thing resulting in deformation of the middle region. No restriction due to extra layers.</td>
+    </tr>
+</tbody>
+</table>
+* Note: All other settings not mentioned above were left at their default values.
+
+## Final Working Pliers GIF
 
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281128b7bd3b78350891?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-## Final Working Pliers GIF
 
 {% include gallery caption="Multimaterial Pliers Gallery" %}
