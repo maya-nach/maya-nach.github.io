@@ -37,7 +37,7 @@ Instead of continuing to soften the structure, the next approach increased the n
 ### Aside: Debated Last Resort Solution
 At this point, the strategy considered was reducing the overall scale of the pliers (jaws, flexible section, and handles). The reasoning was that smaller geometry would require less deformation to achieve full closure. However, this would require re-aligning the entire assembly and redesigning clearances, which is less than ideal.
 
-#### Iteration 4: Final Iteration
+### Iteration 4: Final Iteration
 Rather than scaling everything down, the successful solution came from reducing jaw capacity by 10 mm and modifying the jaw geometry to improve gripping efficiency at smaller deformation levels. This reduced the amount of elastic travel required from the spring region while increasing mechanical effectiveness at the tip. The result was sufficient jaw motion for gripping small objects without excessive deformation of the TPU insert.
 ![iteration-4](/assets/img/pliers-final-iteration.jpg)
 
@@ -88,7 +88,7 @@ Rather than scaling everything down, the successful solution came from reducing 
 * Note: All other settings not mentioned above were left at their default values.
 
 ## Final Working Pliers
-![working-gif](https://imgflip.com/gif/ak30tk)
+![working-gif](/assets/img/ak30tk.gif)
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281128b7bd3b78350891?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
