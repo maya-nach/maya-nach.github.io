@@ -20,10 +20,21 @@ This project explores a **multi-material, print-in-place needle-nose pliers** de
 ![final-rendering](/assets/img/pliers-FINAL-RENDER.png)
 
 ## Design and Iterative Process
+### Design Overview
+This multi-material pliers design uses a rigid PLA body for structural alignment and a flexible TPU (95A) spring region to generate compliant motion and automatic return. The spring component was designed as a lattice-style flexible middle section, printed separately in TPU and mechanically captured within the rigid frame so that deformation occurs in a controlled direction. The rigid jaws and handles maintain dimensional stability, while the flexible insert stores elastic energy during compression and drives reopening when released. Rather than relying on a traditional pinned hinge, the mechanism depends on controlled material deformation and geometric constraint to translate handle compression into jaw motion.
 
+### Iterative Process
+#### Iiteration 1: Baseline
+![iteration-1](/assets/img/pliers-iteration-1.jpg)
+The initial flexible section was printed with 25% grid infill, no top or bottom layers, and an overall extrusion thickness of 5 mm. The goal was to allow sufficient deformation while keeping the geometry simple. However, jaw motion was limited and did not provide meaningful grip force.
 
 ### Key Specifications
-
+* TPU square length: 35 mm
+* Handle top length: TPU square length x 2
+* Handle side length: TPU square length x 3
+* Jaw length: ~62.5 mm
+* Jaw capacity: 7 mm
+* Note: TPU square diagonal length and jaw capacity needed a minimum 2:1 ratio to ensure effective plier functionality.
 
 ## Print Settings
 <table>
@@ -59,7 +70,7 @@ This project explores a **multi-material, print-in-place needle-nose pliers** de
 </table>
 * Note: All other settings not mentioned above were left at their default values.
 
-## Final Working Pliers GIF
+## Final Working Pliers
 
 
 ## CAD Model
