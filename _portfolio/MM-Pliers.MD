@@ -18,24 +18,23 @@ This project explores a **multi-material, print-in-place needle-nose pliers** de
 ## Rendering of Final Pliers
 ![final-rendering](/assets/img/pliers-FINAL-RENDER.png)
 
-## Design and Iterative Process
-### Design Overview
+## Design Overview
 This multi-material pliers design uses a rigid PLA body for structural alignment and a flexible TPU (95A) spring region to generate compliant motion and automatic return. The spring component was designed as a lattice-style flexible middle section, printed separately in TPU and mechanically captured within the rigid frame so that deformation occurs in a controlled direction. The rigid jaws and handles maintain dimensional stability, while the flexible insert stores elastic energy during compression and drives reopening when released. Rather than relying on a traditional pinned hinge, the mechanism depends on controlled material deformation and geometric constraint to translate handle compression into jaw motion.
 
-### Iterative Process
-#### Iteration 1: Baseline
+## Iterative Process
+### Iteration 1: Baseline
 The initial flexible section was printed with 25% grid infill, no top or bottom layers, and an overall extrusion thickness of 5 mm. The goal was to allow sufficient deformation while keeping the geometry simple. However, jaw motion was limited and did not provide meaningful grip force.
 ![iteration-1](/assets/img/pliers-iteration-1.jpg)
 
-#### Iteration 2: Reduce Infill and Add Clearance
+### Iteration 2: Reduce Infill and Add Clearance
 To increase flexibility, infill was reduced to 18% (grid pattern maintained) while keeping the 5 mm perimeter intact. Corner cutouts were introduced to provide additional clearance for handle motion. While the handles gained more room to move, the still jaws didn't move far enough. This suggested that reducing stiffness alone was not solving the directional deformation problem. The system lacked the rigidity needed to transfer force effectively to the jaws.
 ![iteration-2](/assets/img/pliers-iteration-2.jpg)
 
-#### Iteration 3: Increase Perimeters
+### Iteration 3: Increase Perimeters
 Instead of continuing to soften the structure, the next approach increased the number of perimeters to approximately 7, allowing more solid material between structural pegs and the internal lattice. Infill remained at 18%, and corner gaps were retained. The intent was to introduce directional rigidity so that deformation would occur in the correct region rather than dissipating throughout the lattice. This improved structural behavior slightly but still did not produce sufficient jaw travel.
 ![iteration-3](/assets/img/pliers-iteration-3.jpg)
 
-#### Aside: Debated Last Resort Solution
+### Aside: Debated Last Resort Solution
 At this point, the strategy considered was reducing the overall scale of the pliers (jaws, flexible section, and handles). The reasoning was that smaller geometry would require less deformation to achieve full closure. However, this would require re-aligning the entire assembly and redesigning clearances, which is less than ideal.
 
 #### Iteration 4: Final Iteration
@@ -80,12 +79,16 @@ Rather than scaling everything down, the successful solution came from reducing 
       <td>Horizontal Shells Solid Layers: Top and Bottom layers set to zero (TPU middle)</td>
       <td>Must remove top and bottom layers so that the grid infill is main thing resulting in deformation of the middle region. No restriction due to extra layers.</td>
     </tr>
+    <tr>
+      <td>Vertical Shells Perimeters: Set to 7 (TPU middle)</td>
+      <td>Allows more solid material between structural pegs and the internal lattice for stability.</td>
+    </tr>
 </tbody>
 </table>
 * Note: All other settings not mentioned above were left at their default values.
 
 ## Final Working Pliers
-
+![working-gif](https://imgflip.com/gif/ak30tk)
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281128b7bd3b78350891?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
