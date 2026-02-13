@@ -13,3 +13,11 @@ gallery:
 
 ---
 
+## Purpose and Design Overview
+
+
+### Features
+
+
+## Rendering of Final Syringe Pump
+![final-rendering](/assets/img/FINAL-SYRINGE-PUMP-RENDER.png)
