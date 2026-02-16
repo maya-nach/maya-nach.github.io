@@ -1,5 +1,5 @@
 ---
-title: "Maya Nachega - Engineering Portfolio"
+title: "Maya Nachega - Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
