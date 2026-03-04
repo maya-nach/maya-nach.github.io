@@ -12,7 +12,7 @@ excerpt: "Maya Nachega is an aspiring engineer exploring how technology can be u
 feature_row:
   - image_path: https://www.hopkinsmedicine.org/-/media/physical-medicine-rehabilitation/images/about/physician-job-cta.jpg
     alt: "PM&R pic"
-    title: "Physical Medicine & Rehabilitation (PM&R)"
+    title: "Rehabilitation Engineering"
     excerpt: "Maya is particularly interested in rehabilitation engineering as a potential future career focus."
   - image_path: assets/img/maya-sugru-reu-poster-pic.JPG
     alt: "maya + sugru poster pic"
