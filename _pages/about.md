@@ -4,7 +4,7 @@ title: "About Maya Nachega"
 
 ---
 
-Maya is building a broad foundation in engineering and medicine through coursework, research, and hands-on design. She is seeking jobs at the intersection of engineering and medical innovation.
+Maya is building a broad foundation in biomedical engineering through coursework, research, and hands-on design. She is interested in developing technologies that improve human health and is seeking engineering roles in medical device design and development.
 
 ## Education 
 
@@ -30,6 +30,8 @@ Maya has experience with the following relevant tools and technologies:
 * Digital Fabrication
   * CAD (SolidWorks, Fusion 360)
   * Fused Filament Fabrication (FFF)
+  * Laser cutting 
+  * Vat Photopolymerization (VPP)
 * Programming
   * Python
   * Java
