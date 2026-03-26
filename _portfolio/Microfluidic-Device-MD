@@ -1,1 +1,11 @@
+---
+title: "Microfluidic Device"
+excerpt: "Resin-printed microfluidic device for size-based particle separation via pinch flow fractionation (PFF)."
+header:
+  image: /assets/img/pliers-rendering-2.png
+  teaser: /assets/img/pliers-FINAL-RENDER.png
+gallery:
+  - image_path: /assets/img/pliers-iteration-1.jpg
+
+---
 
