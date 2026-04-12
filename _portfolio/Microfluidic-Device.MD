@@ -16,6 +16,7 @@ Pinch flow fractionation (PFF) is a microfluidic technique used to separate part
 
 A key application of PFF is in [biomedical cell sorting](https://pubmed.ncbi.nlm.nih.gov/25226956/), such as separating circulating tumor cells (CTCs) from blood samples. Unlike traditional filtration methods, which can clog or damage cells, PFF enables continuous, passive separation without physical barriers, limiting shear stress and maintaining the viability of the sample.
 
+### 3D Mold to final uFluidic Device Process
 
 ## Rendering of Final uFluidic Device Mold
 ![final-rendering-ufluidic](/assets/img/ufluidic-final-render.png)
