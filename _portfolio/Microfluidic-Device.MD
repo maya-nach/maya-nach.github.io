@@ -11,6 +11,10 @@ gallery:
 ---
 
 ## Project Background and Overview
+### What is Pinch Flow Fractionation?
+Pinch flow fractionation (PFF) is a microfluidic technique used to separate particles by size under laminar flow conditions. In a PFF device, a particle-containing stream is compressed by a higher flow-rate “pinch” stream into a narrow channel. Particles align along paths based on their size, with larger particles being displaced farther from the channel wall than smaller ones. These streamlines separate spatially downstream, allowing particles of different sizes to be directed into different outlet channels.
+
+A key application of PFF is in biomedical cell sorting, such as separating circulating tumor cells (CTCs) from blood samples. Unlike traditional filtration methods, which can clog or damage cells, PFF enables continuous, passive separation without physical barriers, limiting shear stress and maintaining the viability of the sample.
 
 
 ## Rendering of Final uFluidic Device Mold
