@@ -27,7 +27,7 @@ Additionally, the spring and ball bearing were exposed rather than enclosed with
 A few adjustments were needed for 3D printing. The clamp components and their M3 screw holes were made larger to improve fit to the handlebar and ease of assembly, since initial tolerances and sizes were too small. Fillets were also added to the gear part of the detent mechanism to make it easier for the ball bearing to move, and "click" between orientations.
 
 ### 3D Printing Technology
-
+All components were produced using filament (FDM) printing due to its accessibility and ability to support rapid iteration and testing. Most parts were printed in PLA for ease of printing and sufficient rigidity, while the phone holder band was printed in TPU to provide flexibility, allowing the phone to be inserted and held securely without damage.
 
 ## Assembly and Use Instrusctions
 
