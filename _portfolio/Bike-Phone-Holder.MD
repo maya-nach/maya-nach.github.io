@@ -24,7 +24,7 @@ The detent mechanism was implemented using a spring and ball bearing intended to
 Additionally, the spring and ball bearing were exposed rather than enclosed within the assembly. This made the mechanism prone to popping-out during use and reduced its durability for long-term application. Overall, while the detent concept was successfully integrated, its execution revealed major design trade-offs and adjustments that would need to be made for future use.
 
 ### Iterations/Dimension Adjustments
-
+A few adjustments were needed for 3D printing. The clamp components and their M3 screw holes were made larger to improve fit to the handlebar and ease of assembly, since initial tolerances and sizes were too small. Fillets were also added to the gear part of the detent mechanism to make it easier for the ball bearing to move, and "click" between orientations.
 
 ### 3D Printing Technology
 
