@@ -2,11 +2,10 @@
 title: "Bike Phone Holder"
 excerpt: "Bike phone holder with a detent mechanism allowing the phone to lock in various orientations."
 header:
-  image: /assets/img/pliers-rendering-2.png
-  teaser: /assets/img/pliers-FINAL-RENDER.png
+  image: assets/img/bike-phone-mount-render-FINAL.png
+  teaser: /assets/img/bike-phone-mount-render-TEASER.png
 gallery:
   - image_path: /assets/img/pliers-iteration-1.jpg
-  - image_path: /assets/img/pliers-iteration-2.jpg
 ---
 
 ## Top-Down Modeling Description
