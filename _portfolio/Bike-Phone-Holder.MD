@@ -22,7 +22,7 @@ In this project, a top-down approach was used by first modeling the handlebar an
 ## Final Rendering of Phone Holder
 ![final-rendering-bike-mount](/assets/img/bike-phone-mount-render-TEASER.png)
 
-## Section view of Detent Mechanism
+## Section View of Detent Mechanism
 
 
 ## Photos of Each Top-Down Component
