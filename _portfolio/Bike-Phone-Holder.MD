@@ -5,7 +5,7 @@ header:
   image: assets/img/bike-phone-mount-render-FINAL.png
   teaser: /assets/img/bike-phone-mount-render-TEASER.png
 gallery:
-  - image_path: /assets/img/pliers-iteration-1.jpg
+  - image_path: /assets/img/top-down-components.jpeg
 ---
 
 ## Top-Down Modeling Description
@@ -23,7 +23,7 @@ In this project, a top-down approach was used by first modeling the handlebar an
 ![final-rendering-bike-mount](/assets/img/bike-phone-mount-render-TEASER.png)
 
 ## Section View of Detent Mechanism
-
+![detent-mech-section-view](/assets/img/bike-phone-mount-detent-mech-SECTION.png)
 
 ## Photos of Each Top-Down Component
 
