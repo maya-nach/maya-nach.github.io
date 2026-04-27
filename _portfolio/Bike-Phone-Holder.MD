@@ -11,7 +11,7 @@ gallery:
 ## Top-Down Modeling Description
 Top-down modeling is a CAD design approach where a system is built by first defining the overall assembly and reference geometry, then creating individual components within that context so they are driven by shared dimensions and relationships. Instead of designing parts separately and assembling them later, parts are modeled in place and maintain alignment through projected geometry and parametric constraints.
 
-In this assignment, a top-down approach was used by first modeling the handlebar and importing a phone model to establish key reference dimensions such as diameter, position, and viewing angle. These references guided the design of the clamp, phone holder, and rotating mechanism directly within the assembly. As a result, all components remained aligned and could be easily adjusted by modifying a few key parameters, improving both the efficiency of iteration (less printing required to test assembly and part compatibility) and the overall functionality of the mount.
+In this project, a top-down approach was used by first modeling the handlebar and importing a phone model to establish key reference dimensions such as diameter, position, and viewing angle. These references guided the design of the clamp, phone holder, and rotating mechanism directly within the assembly. As a result, all components remained aligned and could be easily adjusted by modifying a few key parameters, improving both the efficiency of iteration (less printing required to test assembly and part compatibility) and the overall functionality of the mount.
 
 ## Design Rationale
 
@@ -20,7 +20,7 @@ In this assignment, a top-down approach was used by first modeling the handlebar
 
 
 ## Final Rendering of Phone Holder
-
+![final-rendering-bike-mount](/assets/img/bike-phone-mount-render-TEASER.png)
 
 ## Section view of Detent Mechanism
 
