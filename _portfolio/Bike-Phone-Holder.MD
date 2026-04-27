@@ -18,6 +18,15 @@ Top-down modeling is a CAD design approach where a system is built by first defi
 In this project, a top-down approach was used by first modeling the handlebar and importing a phone model to establish key reference dimensions such as diameter, position, and viewing angle. These references guided the design of the clamp, phone holder, and rotating mechanism directly within the assembly. As a result, all components remained aligned and could be easily adjusted by modifying a few key parameters, improving both the efficiency of iteration (less printing required to test assembly and part compatibility) and the overall functionality of the mount.
 
 ## Design Rationale
+### Detent Mechanism
+The detent mechanism was implemented using a spring and ball bearing intended to engage with recessed notches to create a “click” between portrait and landscape orientations. However, the mechanism did not perform as effectively as intended. A key limitation of the design was that all components rotated around a single screw, which was responsible for both securing the assembly and enabling rotation of the detent mechanism. This reduced stability and limited the consistency of the detent engagement. A more effective design would separate these roles, using one fastener to provide structural stability and another dedicated axis to control rotation.
+
+Additionally, the spring and ball bearing were exposed rather than enclosed within the assembly. This made the mechanism prone to popping-out during use and reduced its durability for long-term application. Overall, while the detent concept was successfully integrated, its execution revealed major design trade-offs and adjustments that would need to be made for future use.
+
+### Iterations/Dimension Adjustments
+
+
+### 3D Printing Technology
 
 
 ## Assembly and Use Instrusctions
