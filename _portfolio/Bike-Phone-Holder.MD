@@ -5,7 +5,11 @@ header:
   image: assets/img/bike-phone-mount-render-FINAL.png
   teaser: /assets/img/bike-phone-mount-render-TEASER.png
 gallery:
-  - image_path: /assets/img/top-down-components.jpeg
+  - image_path: /assets/img/IMG_5400.jpeg
+  - image_path: /assets/img/IMG_5401.jpeg
+  - image_path: /assets/img/IMG_5402.jpeg
+  - image_path: /assets/img/IMG_5403.jpeg
+  - image_path: /assets/img/IMG_5404.jpeg
 ---
 
 ## Top-Down Modeling Description
@@ -26,7 +30,7 @@ In this project, a top-down approach was used by first modeling the handlebar an
 ![detent-mech-section-view](/assets/img/bike-phone-mount-detent-mech-SECTION.png)
 
 ## Photos of Each Top-Down Component
-
+![top-down-components](/assets/img/top-down-components.jpeg)
 
 ## Final Working Phone Holder GIF
 <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/ak30tk"></iframe></div><p><a href="https://imgflip.com/gif/ak30tk">via Imgflip</a></p></div>
