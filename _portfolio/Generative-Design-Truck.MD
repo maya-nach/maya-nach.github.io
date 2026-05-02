@@ -73,6 +73,8 @@ There are also practical challenges. Powder bed fusion can produce these complex
 
 Overall, generative design is most useful in applications where performance is more important than cost. This includes aerospace, high-performance automotive components, and medical devices. In these areas, reducing weight, improving efficiency, or customizing geometry can justify the added complexity and cost. It is especially valuable when multiple parts can be combined into a single component, reducing assembly and potential failure points.
 
+In conclusion, generative design is a very powerful tool, but it works best when used thoughtfully. It depends heavily on strong engineering-judgement. When combined with powder bed fusion, it allows for designs that would not be possible otherwise. However, its usefulness depends on having accurate inputs, a clear understanding of the problem, and a manufacturing process that can support the final design. 
+
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b11733f7638a30ca?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
