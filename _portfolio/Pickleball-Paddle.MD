@@ -1,9 +1,9 @@
 ---
-title: "Bike Phone Holder"
-excerpt: "Bike phone holder with a detent mechanism allowing the phone to lock in various orientations."
+title: "Pickleball Paddle"
+excerpt:
 header:
-  image: assets/img/bike-phone-mount-render-FINAL.png
-  teaser: /assets/img/bike-phone-mount-render-TEASER.png
+  image: 
+  teaser: 
 gallery:
   - image_path: /assets/img/IMG_5400.jpeg
   - image_path: /assets/img/IMG_5401.jpeg
