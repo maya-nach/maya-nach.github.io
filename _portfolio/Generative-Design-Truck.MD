@@ -12,7 +12,48 @@ gallery:
 Generative design is a design approach where you define constraints,like loads, materials, and regions to preserve,and an algorithm automatically generates optimized geometries that meet those requirements. Instead of manually modeling a shape, the software explores many possible solutions and finds forms that efficiently handle forces, often reducing weight while maintaining strength.
 
 ## Table of Forces Used
-
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Magnitude</th>
+      <th>Location</th>
+      <th>Rationale</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rider's Weight Bearing Load</td>
+      <td>600N</td>
+      <td>At the axle</td>
+      <td>Hanger must be able to support the weight of the rider</td>
+    </tr>
+    <tr>
+      <td>Turning/Carving</td>
+      <td>600N</td>
+      <td>At the axle</td>
+      <td>Hanger must be able to support the weight of the rider on each side hypothetically if turning occurs by pressing weight to one side</td>
+    </tr>
+    <tr>
+      <td>Belt-driven Propulsion</td>
+      <td>400N</td>
+      <td>At the motor mount</td>
+      <td>Hanger must be able to support torque at the section near motor mount because of the belt's movement</td>
+    </tr>
+    <tr>
+      <td>Weight of Motor</td>
+      <td>400N</td>
+      <td>Remote load where motor sits</td>
+      <td>Hanger mass needs to support a motor that would be attached to the system</td>
+    </tr>
+    <tr>
+      <td>Bump/jolt force</td>
+      <td>600N</td>
+      <td>At the axles</td>
+      <td>Hanger must be able to support the weight of the rider feeling suddenly up instead of a bearing load in case bumps occur</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Disucssion
